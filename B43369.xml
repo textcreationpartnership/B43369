@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Chancellours discovery and confession: made in the time of his sickness in the Tower..</title>
+            <author>Jeffreys, George Jeffreys, Baron, 1644 or 5-1689.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43369</idno><idno type="EEBO-CITATION">99889308</idno>
+  <idno type="VID">208003</idno>
+  <idno type="EEBO-PROQUEST">2248544770</idno>
+  
+            <idno type="OCLC"> 8988902</idno>
+            <idno type="PROQUEST">99889308</idno>
+            <idno type="STC">Wing L3042</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.122.i.5[35]</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43369)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208003)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C26:1[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Chancellours discovery and confession: made in the time of his sickness in the Tower..</title>
+                  <author>Jeffreys, George Jeffreys, Baron, 1644 or 5-1689.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Lee without Bishopsgate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>The Lord Chancellour = George Jeffreys, Baron Jeffreys.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Text in two columns.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jeffreys, George Jeffreys, --  Baron, 1644 or 5-1689 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Revolution of 1688 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:208003:1"/>
+            <head>The Lord Chancellours <hi>Discovery and Confession:</hi> Made in the Time of His Sickness in the Tower.</head>
+            <p>THE Dreadful Apprehensions of a future being to Souls so ill-prepared, and the Ter<g ref="char:EOLhyphen"/>rors of Conscience under the Visitatio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Heaven, are of that sad weight, that no thought can imagine but his th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t groans under it. When I tu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n my Eyes inward, I can look upon my self as no other than the unhappiest of Men, loaded with Infa<g ref="char:EOLhyphen"/>my, Misery, Imprisonment, and almost Despair; but a<g ref="char:EOLhyphen"/>bove all, with the Universal Hatred of a Kingdom; so U<g ref="char:EOLhyphen"/>niversal, that I stand the very Center of Shame, whilst every Tongue that reviles, each Eye that loaths, and every Finger that points, seem to terminate in miserable me. Such is my hard Fate, and such my serious Reflections, that I believe, had my Faults been ten-fold greater than they are, it was impossible for me to disoblige Mankind in all my Exalted Glory, but half so much as I have pleased them in my Fall; so naturally lovely in the <hi>En<g ref="char:EOLhyphen"/>glish</hi> Eyes, does the Distress and Ruines of Tottering Greatness look, where they seem but just.</p>
+            <p>But all these Accumulated Calamities are but my lightest Burthen; for, alas, how justly, and more sadly may I cry out with falling <hi>Woolsey, Had I served my God with half that Zeal I served my King, He would not have left me thus Wretched!</hi> Wretched indeed, when my weakness of Body calls me to consider, how near I may stand to that Tribunal, before which, the proudest of Earthly Judges, Potentates, and Princes tremble. The Summons from that terrible Judge, is such an Alarm, that what would I do, if possible, to Soften that Almighty Justice that stands arm'd against me? Could the Confession of my Crimes make the least part of their Attonements; how happy should I think my self, in Unbosoming my whole Soul, even to my secretest and minutest Thought? The sence of which, makes me borrow from my Pains, these few favourable, though d ftracted Minutes, to use that Candour and Openness before I leave the World, that may reconc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le it, if possible, amongst all its <hi>Odium</hi> and <hi>Aversion,</hi> to at least one charitable Thought of me.</p>
+            <p>But alas, before I come to the sad Narrative of those numerous Ills I have committed, before I launch down into that deeper Torrent; my akeing Heart, and sad Re<g ref="char:EOLhyphen"/>membrance, lead me up to the fatal Fountain Head, from whence they took their Rise: And there, to my Con<g ref="char:EOLhyphen"/>fusion, I am forced to acknowledge my Crimes are scarce so black as the Polluted Source they sprung from: For whereas Ambition, Interest, Honours, those smiling Gourt-Beams, the common <hi>Ignes fatui,</hi> are those gaw<g ref="char:EOLhyphen"/>dier Snares that mislead the wandring Steps of other Of<g ref="char:EOLhyphen"/>fending Statesmen; I cannot but shamefully confess, that a Viler and Sootier Coal, Rancour and Malice, warp'd me crooked.</p>
+            <p>The two famous Occasions of my rising Spleen and bit<g ref="char:EOLhyphen"/>terness of Spirit, proceeded from the Parliaments bring<g ref="char:EOLhyphen"/>ing me upon my Knees, for my abhorring of Petitions; and next, the City of <hi>London</hi>'s Turning me out of my Re<g ref="char:EOLhyphen"/>cordership.</p>
+            <p>The Anger, the Rage, the Spight I conceiv'd at this double Disgrace and Affront, was the first accursed Gall that Poyson'd me; a Resentment that struck me so deep, and so Canker'd every faculty of my Soul, that what is it I did not study, Contrive, and Plot to be reveng'd? I profess in the Agony of my Thought, I was a hundred times not only. Thinking, but Resolving (if no other means) to turn <hi>Wizzard,</hi> to wreak my Malice upon my Enemies, had my small Belief (Heaven forgive me) of either a God or a Devil, perswaded me there was any such Creature as a <hi>Witch,</hi> or such an Art as <hi>Sorcery.</hi>
+            </p>
+            <p>As for that damn'd Town of <hi>London,</hi> not <hi>Cataline</hi> a<g ref="char:EOLhyphen"/>gainst Old <hi>Rome,</hi> was half so sworn a Foe, as I, against that Insolent Proud City. Really and sincerely, I could willingly and heartily out of my own Pocket, (though I sold my last Ragg in the World) have been my self at the charge of a New Monument, so I had had but the Pleasure of a second same Occasion of Building it. Nay verily, I envied the Fate of the old <hi>Erostratus,</hi> and that more modern Worthy, <hi>Hubart;</hi> and could have wish'd my Own Name, though at the price of his Destiny, Engra<g ref="char:EOLhyphen"/>ven in the very Room of that wisely raz'd-out <hi>Inscription,</hi> on so glorious an Occasion.</p>
+            <p>'Twas then alas, Edg'd and Enraged with a Mortal Hate, and an Avowed Vengeance against that accursed and detested City, and more detested Parliaments; with two such meritorious Qualifications. I applyed my self to the once great <hi>Coleman</hi>'s Greater Master, at that time an ear<g ref="char:EOLhyphen"/>ly, and indeed almost only governing Pilot at the Helm; both infallible Recommendations to Entitle me to the highest Hopes of the most Exalted Honours. In short, I Entred, Listed, and Swore my self Engineer General under that leading <hi>Heroe</hi>'s Banners; and how hugged, and how embraced, my succeeding almost Deluge of good Fortune, Glories, and Preferments will sufficiently Testifie.</p>
+            <p>And though the World has sometimes wondred at so sudden a Rise, as is little more than seven years, to mount from a <hi>Finsbury</hi> Petty-fogger, to a Lord High-Chan<g ref="char:EOLhyphen"/>cellour of <hi>England;</hi> from bawling at a Hedge-Court-Bar for five Shillings Fee, to sit Equity-Driver with Ten thou<g ref="char:EOLhyphen"/>sand Pound <hi>per Annum</hi> (besides P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esents and Bribes unac<g ref="char:EOLhyphen"/>countable) honestly gotten. But alas, to rectify the Mi<g ref="char:EOLhyphen"/>stakes of Mankind, and suppress their Astonishment at so Unpresidented an Advance, I must assure them, that as no History affords a parallel of such a Crown-Favourite as my self; so no Age ever yielded such a true Crown-Drudge neither, to deserve those Favours. Alas, my Dar<g ref="char:EOLhyphen"/>ling Fortune mov'd not half so Rapid, as my dearer Coun<g ref="char:EOLhyphen"/>sels drove; and all the Caresses of my Glory were thought but the poorest Meed and Reward of those Services that gain'd them.</p>
+            <p>But to recite my fatal Particulars: Upon my first En<g ref="char:EOLhyphen"/>trance (as I was saying) of Engineer General, our first great Attacque was against the <hi>Charter of London;</hi> and to the Honour of my <hi>Premier Effort,</hi> what by our terri<g ref="char:EOLhyphen"/>ble Dead-doing <hi>Quo-Warranto,</hi> my own invented Bat<g ref="char:EOLhyphen"/>tring-Ramm, planted ageinst them at <hi>Westminster,</hi> and the <hi>Tower-Hill-Guns,</hi> removed and mounted against them on the <hi>Tower</hi> Battlements; we soon reduced that Impe<g ref="char:EOLhyphen"/>rious Town, to almost as intire a Subjection and Vassa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>age,
+<pb facs="tcp:208003:2"/>as our own Hearts, and our <hi>Roman</hi> Friends, could wish.</p>
+            <p>Next, for those <hi>Prerogative-Crampers,</hi> those <hi>Cheek<g ref="char:EOLhyphen"/>mates</hi> of Crowns, call'd <hi>Parliaments,</hi> there our Triumph was Absolute; we Prorogued or Dissolved, and Danced them from Pillar to Post, from <hi>Westminster</hi> to <hi>Oxford,</hi> &amp;c. at pleasure; and Heaven knowes, with timely, pru<g ref="char:EOLhyphen"/>dent and wise Care, to hush their too impudently inqui<g ref="char:EOLhyphen"/>sitive Curiosity into our <hi>Colemans</hi> Pacquets, our <hi>Le Chaise</hi> and <hi>Lewis</hi> Intrigues, and the rest of our <hi>Popish Plots</hi> and <hi>Cabals;</hi> and all God wot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, little enough to keep our Clo<g ref="char:EOLhyphen"/>ven Foot undiscover'd,</p>
+            <p>Flusht with such prosperous Success, even in my Infant Mischiefs, what was it that I either staggered or shrunk at? My Temptations so allured me, my Rewards so daz<g ref="char:EOLhyphen"/>led me, and my Felicity so hardned me, that Moderation, Reluctance, or Humanity, were only so many Manacles and Shackles, that my inpatient Soul threw off with Dis<g ref="char:EOLhyphen"/>dain.</p>
+            <p>Who alas but I, with so much Unrelenting and Pitiless Ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>barity, Triumpht in the Blood of those poor miserable Western Wretches; and Sanguin'd my very Ermins in their Gore, till even the Air with the Noisomness of their C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rcasses stunk almost as much (if possible) as the very Name of <hi>Jefferies</hi> their Butcher? Yes, and I acted by the Commissioning Vengeance that sent me thither, to inform the Heretick Enemies of <hi>Rome</hi> how much their Blood <hi>Tickles</hi> when it <hi>Streams;</hi> and to let them know by the Sample of my Hand, how keen is a Popish Ed<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-Tool.</p>
+            <p>Was it not I too, that with so much Cunning and Artifice, and by so many Rhetorical High-Treason-Flourishes, wheedled poor <hi>Cornish</hi> to a Gibbet, and <hi>Russel</hi> to a Scaffold? Yes, and 'twas a Master-Piece! To give the Trembling World a Timely Warning what Pro<g ref="char:EOLhyphen"/>testant Zeal must trust to, when Popish Malice is pleas'd to be Angry; and to convince how easily can a Jesuitical Engine wire-draw Guilt, where Popish Ran<g ref="char:EOLhyphen"/>cour is Resolv'd to Destroy.</p>
+            <p>Who Dissolv'd all the Charters, and new Garbell'd all the Corporations, but <hi>Jefferies?</hi> And why, but to prepare 'em to unde<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stand that what with our <hi>Quo Warranto's,</hi> and the rest of our Modelling Tools, we were Resolved at last to have PARLIAMENTS <hi>Al-a-mode de Paree,</hi> and their Dragoon-Reformers too, soon after.</p>
+            <p>Who invented that Ensnaring Command to the Bi<g ref="char:EOLhyphen"/>shops, of Reading the <hi>Declaration,</hi> and put their Re<g ref="char:EOLhyphen"/>fusal to the stretch of High Misdemeanor, if not High Treason, but the <hi>Chancellor?</hi> And why, think you, but to satisfie them what Romish Eye-sores are the Protestant Lawn-Sleeves; and that they shall want neither J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stles nor Stumbling-Blocks to trip their Heels up, and their Heads off too, when they stand in our way?</p>
+            <p>Who but the Great <hi>Jefferies,</hi> in Defiance of the very Fundamentals of Humane Society, the Original Laws of Nature, and to the Face of <hi>MAGNA CHARTA</hi> it self, got the Bishop of <hi>LONDON</hi> Silenc'd and Suspended, without so much as that Universal and Common Right, Sacred even amongst Heathens and In<g ref="char:EOLhyphen"/>fidels, <hi>viz.</hi> the Priviledge of making either Plea or De<g ref="char:EOLhyphen"/>fence, Condemn'd Untry'd and Unheard? Yes, I did it; to instruct the World what feeble Cobweb-Lawn are the Bonds of Justice, Law, Liberty, Common Right, <hi>&amp;c.</hi> in the hands of an Imperial Popish <hi>Sampson Ago<g ref="char:EOLhyphen"/>nistes?</hi>
+            </p>
+            <p>Was it not I too, by my Ecclesiastick High-Commis<g ref="char:EOLhyphen"/>sion-Supremacy, not only against the Statutes and Cu<g ref="char:EOLhyphen"/>stoms of the University, but the Positive Laws of the Land, turned <hi>Maudlir</hi>-Colledge into a Seminary of Je<g ref="char:EOLhyphen"/>suites, and in spight of that Bulwark of the Church of <hi>England,</hi> the Act of Uniformity, converted a Collegi<g ref="char:EOLhyphen"/>ate Chappel into a Mass house? And by the same Justice, might not every Collegiate, Cathedral, and Parochial Church, had the same Conversion? And both the Foun<g ref="char:EOLhyphen"/>tains of Religion and Learning, the Mother Universi<g ref="char:EOLhyphen"/>ties, been deprived of all her Protestant Sons, and re<g ref="char:EOLhyphen"/>peopled with the whole Race of St. <hi>Omers</hi> and <hi>Sala<g ref="char:EOLhyphen"/>manca?</hi>
+            </p>
+            <p>Who did all this? The <hi>Chancellour!</hi> Yes, and he sav'd the <hi>Church of England,</hi> and the whole <hi>English</hi> Liberty, by it. The Nation was lull'd into so profound a Sleep, that they wanted such Thunder-Claps, and such a <hi>Boa<g ref="char:EOLhyphen"/>nerges,</hi> to awaken them from their Lethargy.</p>
+            <p>With these serious Reflections, That these Rapid and Violent Motions of the Romish Cause, are and have been the Destruction of it; who has been the Protestants Champion, but I? Who has pull'd off the Vizor from the Scarlet Whore, and exposed the Painted <hi>Babylon</hi> Pro<g ref="char:EOLhyphen"/>stitute, but I? And if I drove like <hi>Jehu,</hi> 'twas only to the Confusion of a <hi>Jezabel.</hi> Who call'd in the Deliverer of our Church and Laws, that second <hi>Hannibal,</hi> the migh<g ref="char:EOLhyphen"/>ty <hi>Nassau,</hi> but <hi>Jefferyes?</hi> Who has Re-mounted the sink<g ref="char:EOLhyphen"/>ing Glory of our Temples, till their Pinacles shall kiss Heaven, but <hi>Jefferyes?</hi> Who has United. Two such for<g ref="char:EOLhyphen"/>midable Protestant Neighbours, with that Eternal Link of Interest, as shall render us once more the Arbiters of <hi>Europe,</hi> and Terrour of the World? Who but <hi>Jefferyes</hi> and <hi>Jefferyes.</hi> Conduct, has joyn'd those Naval Forces, those Floating Walls that shall one day mew up that French An<g ref="char:EOLhyphen"/>tichristian Monster, till in Despight and Despair, he bursts his Soul out at his Fistula?</p>
+            <p>In fine, Who has cut off the very Entayl of Popery and Slavery from three happy Kingdoms, but <hi>Jefferyes?</hi> Three Kingdoms did <hi>I</hi> say? Yes, possibly has laid that Foundation to the Protestant Cause, as perhaps shall one day m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke her over-top, the Seven Proud Hills, and strike her Dagger into the very Gates of <hi>Rome.</hi>
+            </p>
+            <p>With this Confession of my Crimes, which under the Afflicting Hand of Heaven, I think my self Obl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ged to give the World, I beseech my E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emies themselves so to represent my C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se, as that at least. <hi>Out of the Devourer may come forth Meat; and out of the Strong, Sweetness:</hi> And by Ballancing the Services of my Actions against the Guilt of them, give me some small dawn of Hope, that the Approaching Parliament, my Judges, my Accusers themselves, may be softned into some Commiseration and Forgiveness. I assure them, if Heaven spare me Life to ask it, they shall want neither Confession, Discovery, nor Contrition, to obtain their Absolution. And Black as I am, I beg, even my most Hard-hearted Adversaries, to Consider, that still I am not Blacker then <hi>Judas.</hi> And alas, there was some Merit even in <hi>Judas;</hi> for there want<g ref="char:EOLhyphen"/>ed his Betraying of his God, for the Saving of the World.</p>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Lee</hi> without <hi>Bishopsgate.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
